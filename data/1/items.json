@@ -16,7 +16,7 @@
         "name_slug": "staff-key"
     },
     "2": {
-        "name": "Pack of Mints",
+        "name": "Mints",
         "desk": 1,
         "gift": 1,
         "npc_carry": true,
