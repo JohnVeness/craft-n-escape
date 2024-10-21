@@ -1028,7 +1028,7 @@
         "name_slug": "lightweight-cutters"
     },
     "122": {
-        "name": "Tool Handle",
+        "name": "Makeshift Handle",
         "illegal": true,
         "craft": {
             "intelligence": 30,
