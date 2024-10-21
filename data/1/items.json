@@ -130,7 +130,7 @@
         "name_slug": "shaving-cream"
     },
     "15": {
-        "name": "Purple Magazine",
+        "name": "Purple magazine",
         "gift": 2,
         "buy": 15,
         "desk": 1,
@@ -397,7 +397,7 @@
         "name_slug": "pack-of-playing-cards"
     },
     "50": {
-        "name": "Blue Book",
+        "name": "Blue book",
         "gift": 1,
         "desk": 1,
         "npc_carry": true,
