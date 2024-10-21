@@ -295,7 +295,7 @@
         "name_slug": "jar-of-ink"
     },
     "37": {
-        "name": "Tub of Bleach",
+        "name": "Bleach",
         "npc_carry": true,
         "desk": 1,
         "name_slug": "tub-of-bleach"
