@@ -7,6 +7,8 @@ on one filterable page. Available at [craft-n-escape.com](https://craft-n-escape
 
 > Because everyone loves it when a plan comes together
 
+Modified by John Veness to use item names from console version of The Escapists 1. (For the Nintendo Switch version at least - I assume the other console versions are the same.)
+
 ## Features
 
 **Note:** Only The Escapists 1 is fully supported at this moment. The Escapists 2 support is ongoing.
