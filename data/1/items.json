@@ -288,7 +288,7 @@
         "name_slug": "mop"
     },
     "36": {
-        "name": "Jar of Ink",
+        "name": "Ink",
         "desk": 1,
         "npc_carry": true,
         "buy": 25,
